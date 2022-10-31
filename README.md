@@ -3,6 +3,8 @@ Landing page project for The Odin Project.
 
 Took a bit. I'll probably update it over the next few weeks as its not currently compatible with mobile devices.
 
+You can visit the site <a href="https://citrusland.github.io/landing-page/">here</a>.
+
 Credits:
 
 <p><a href="https://www.pexels.com/photo/kitten-sitting-on-stairway-in-grayscale-photo-10747952"/>Kitten Sitting on Stairway in Grayscale Photo
