@@ -1,7 +1,7 @@
 # landing-page
 Landing page project for The Odin Project.
 
-Took a bit. I'll probably update it over the next few weeks as its not currently compatible with mobile devices.
+Took a bit. I had a ton of fun working on this little project!
 
 You can visit the site <a href="https://citrusland.github.io/landing-page/">here</a>.
 
